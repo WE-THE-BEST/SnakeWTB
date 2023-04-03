@@ -1,4 +1,5 @@
 # WE THE BEST SNAKE
+Only works on computer
 
 Provided to We The Best by Nathan Davidson
 
