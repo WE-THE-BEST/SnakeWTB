@@ -7,7 +7,7 @@ Provided to We The Best by Nathan Davidson
 
 Controls: W (up), A (left), S (down) and D (right)
 
-Press "Reset Gamemode" before swtching your gamemode or else you will encounter errors
+Press "Reset Gamemode" before switching your gamemode or else you will encounter errors
 
 If you encounter an error that isn't fixed through reset gamemode click respawn
 
