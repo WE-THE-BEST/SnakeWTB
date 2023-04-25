@@ -11,4 +11,4 @@ Press "Reset Gamemode" before switching your gamemode or else you will encounter
 
 If you encounter an error that isn't fixed through reset gamemode click respawn
 
-The controls for Player 2 in 2 Player Mode are I(up) J(left) K(down) and L(right)
+The controls for Player 2 in 2 Player Mode are I (up), J( left), K (down) and L(right)
