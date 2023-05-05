@@ -1,8 +1,6 @@
 # WE THE BEST SNAKE
 (Only works on computer)
 
-Provided to We The Best by Nathan Davidson
-
 3AM MODE IS BUGGED, AVOID PLAYING IT. IF YOU DO PRESS "RESPAWN" ONCE THE GAME ENDS
 
 Controls: W (up), A (left), S (down) and D (right)
